@@ -4,6 +4,8 @@ nvidia-settings
 amd-ucode
 xorg-server
 xorg-apps
+kitty
+firefox
 bspwm
 sxhkd
 polybar
@@ -12,8 +14,8 @@ picom
 rofi
 lightdm
 lightdm-gtk-greeter
-gtk-3
-gtk-4
+gtk3
+gtk4
 mc
 fastfetch
 polkit-gnome
@@ -39,7 +41,7 @@ noto-fonts-emoji
 adobe-source-han-sans-otc-fonts
 adobe-source-han-serif-otc-fonts
 ttf-jetbrains-mono
-ttf-firacode
+ttf-firacode-nerd
 ttf-linux-libertine
 tex-gyre-fonts
 gnu-free-fonts
